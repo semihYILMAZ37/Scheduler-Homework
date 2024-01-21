@@ -1,0 +1,24 @@
+ time	name	instr.	   type
+   10	 P1	   instr1	 PLATINUM
+  100	 P1	  instr19	 PLATINUM
+  150	 P1	  instr15	 PLATINUM
+  240	 P1	  instr18	 PLATINUM
+  300	 P1	   instr3	 PLATINUM
+  370	 P1	   instr2	 PLATINUM
+  450	 P1	  instr20	 PLATINUM
+  490	 P1	  instr15	 PLATINUM
+  580	 P1	  instr18	 PLATINUM
+  640	 P1	   instr3	 PLATINUM
+  710	 P1	   instr2	 PLATINUM
+  790	 P1	     exit	 PLATINUM
+  810	 P2	  instr18	 PLATINUM
+  870	 P2	   instr2	 PLATINUM
+  950	 P2	   instr5	 PLATINUM
+ 1000	 P2	   instr6	 PLATINUM
+ 1040	 P2	   instr5	 PLATINUM
+ 1090	 P2	   instr6	 PLATINUM
+ 1130	 P2	   instr5	 PLATINUM
+ 1180	 P2	   instr6	 PLATINUM
+ 1220	 P2	     exit	 PLATINUM
+407.5
+1012.5

@@ -1,0 +1,42 @@
+#definition.txt
+ time	name	instr.	   type
+   10	 P5	   instr9	   SILVER
+   40	 P5	   instr2	   SILVER
+  120	 P5	  instr19	   SILVER
+  180	 P7	   instr8	 PLATINUM
+  200	 P7	   instr1	 PLATINUM
+  290	 P7	  instr10	 PLATINUM
+  330	 P7	  instr11	 PLATINUM
+  380	 P7	   instr2	 PLATINUM
+  460	 P7	     exit	 PLATINUM
+  480	 P5	   instr9	   SILVER
+  510	 P5	   instr2	   SILVER
+  590	 P5	   instr2	     GOLD
+  670	 P5	  instr19	     GOLD
+  720	 P5	   instr9	     GOLD
+  750	 P5	   instr2	     GOLD
+  830	 P5	  instr19	     GOLD
+  880	 P5	     exit	     GOLD
+  900	 P2	  instr18	   SILVER
+  960	 P2	   instr2	   SILVER
+ 1040	 P2	   instr5	   SILVER
+ 1090	 P2	   instr6	   SILVER
+ 1130	 P2	   instr5	   SILVER
+ 1180	 P2	   instr6	   SILVER
+ 1220	 P2	   instr5	     GOLD
+ 1270	 P2	   instr6	     GOLD
+ 1310	 P2	     exit	     GOLD
+ 1330	 P1	   instr1	     GOLD
+ 1420	 P1	  instr19	     GOLD
+ 1470	 P1	  instr15	     GOLD
+ 1560	 P1	  instr18	     GOLD
+ 1620	 P1	   instr3	     GOLD
+ 1690	 P1	   instr2	     GOLD
+ 1770	 P1	  instr20	     GOLD
+ 1810	 P1	  instr15	     GOLD
+ 1900	 P1	  instr18	     GOLD
+ 1960	 P1	   instr3	     GOLD
+ 2030	 P1	   instr2	 PLATINUM
+ 2110	 P1	     exit	 PLATINUM
+617.5
+1135

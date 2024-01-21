@@ -1,0 +1,24 @@
+ time	name	instr.	   type
+   10	 P1	   instr1	     GOLD
+  100	 P1	  instr19	     GOLD
+  150	 P1	  instr15	     GOLD
+  240	 P1	  instr18	     GOLD
+  300	 P1	   instr3	     GOLD
+  370	 P1	   instr2	     GOLD
+  450	 P1	  instr20	     GOLD
+  490	 P1	  instr15	     GOLD
+  580	 P1	  instr18	     GOLD
+  640	 P1	   instr3	     GOLD
+  710	 P1	   instr2	 PLATINUM
+  790	 P1	     exit	 PLATINUM
+10010	 P2	  instr18	     GOLD
+10070	 P2	   instr2	     GOLD
+10150	 P2	   instr5	     GOLD
+10200	 P2	   instr6	     GOLD
+10240	 P2	   instr5	     GOLD
+10290	 P2	   instr6	     GOLD
+10330	 P2	   instr5	     GOLD
+10380	 P2	   instr6	     GOLD
+10420	 P2	     exit	     GOLD
+10
+615
